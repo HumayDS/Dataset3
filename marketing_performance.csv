@@ -1,0 +1,16 @@
+session_id,channel,sessions,bounce,conversion,revenue
+1,Organic,1,0,1,120
+2,Ads,1,1,1,80
+3,Referral,1,0,0,-50
+4,Email,1,0,1,200
+5,Organic,1,1,0,0
+6,Ads,1,0,1,150
+7,Referral,1,1,1,90
+8,Email,1,0,0,0
+9,Organic,1,0,1,180
+10,Ads,1,1,0,60
+11,Referral,1,0,1,110
+12,Email,1,0,0,0
+13,Organic,1,1,0,130
+14,Ads,1,0,1,170
+15,Referral,1,1,0,-30
