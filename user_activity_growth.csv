@@ -1,0 +1,13 @@
+user_id,year,month,channel,active_customers_start,new_customers,lost_customers,revenue
+1,2025,Jan,Organic,120,12,2,1200
+2,2025,Feb,Ads,130,15,4,1500
+3,2025,Mar,Referral,145,18,3,2000
+4,2025,Apr,Ads,160,10,5,1100
+5,2025,May,Organic,170,20,2,2200
+6,2025,Jun,Referral,185,11,4,1300
+7,2025,Jul,Ads,195,16,3,1800
+8,2025,Aug,Organic,210,13,2,1400
+9,2025,Sep,Ads,225,19,5,2100
+10,2025,Oct,Referral,240,14,3,1600
+11,2025,Nov,Organic,255,17,2,1900
+12,2025,Dec,Ads,270,9,4,1250
